@@ -23,13 +23,13 @@
   ```bash
   pip install git+https://github.com/bds89/email-resender
   ```
-Если требуется создание ярлыков:
+Если требуется создание ярлыков после установки, выполните:
   ```bash
   email-resender_shortcut
   ```
 Так-же под Windows есть готовый .exe пакет по адресу: [email-resender(exe)](https://github.com/bds89/email-resender-exe-)
 
-Запуск возможен, либо с ярлыка, либо командой 
+Запуск возможен либо с ярлыка, либо командой:
   ```bash
   email-resender
   ```
